@@ -15,7 +15,6 @@ Each sentence file is named as `<paper_ID>.ss` within which each line represents
 | Sentence ID | `s-1-1-0-0` |
 | Section type | `abstract` | 
 | Sentence text: | `The paper describes a natural language based expert system route advisor for the public bus transport in Trondheim, Norway.` |
-|||
 
 A simple dictionary-based classifier was used for the section type labeling.
 
