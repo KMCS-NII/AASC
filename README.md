@@ -18,7 +18,7 @@ Each sentence file is named as `<paper_ID>.ss` within which each line represents
 
 A simple dictionary-based classifier was used for the section type labeling.
 
-For details, see also our [Overview of AASC](https://github.com/KMCS-NII/AASC.md)
+For details, see also our [Overview of AASC](https://github.com/KMCS-NII/AASC/blob/master/AASC.md)
 
 ---
 * This work was supported by National Institute of Informatics and JST Crest JPMJCR1513.
