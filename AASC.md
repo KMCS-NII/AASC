@@ -27,7 +27,7 @@ We categorize first-level sections of each paper into one of eight classes: _abs
 
 #### Statistics as of September 2018
 
-We crawled 44,481 PDF files from the ACL Anthology, and first converted all the files into XHTML format using our analysis tool. In total, 1,174,419 math formulae, 250,082 tables and figures, and 768,290 references were extracted. Then, we selected papers that had both _abstract_ and _references_ blocks. After the filtering, we obtained 38,864 papers with a total of 6,144,852 sentences (158.1 sentences per paper on the average). 
+We crawled 44,481 PDF files from the ACL Anthology, and first converted all the files into XHTML format using our analysis tool. In total, 1,174,419 math formulae, 250,082 tables and figures, and 768,290 references were extracted. Then, we selected papers that had both _abstract_ and _references_ blocks. After the filtering, we obtained 38,864 papers with a total of 6,144,852 sentences (158.1 sentences per paper on the average). AASC Corpus includes 4,297,565 sentences from 26,626 papers published at ACL events.
 
 #### Dataset quality: comparison with existing PDF analysis tools
 
