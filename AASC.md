@@ -1,4 +1,4 @@
-onstruction of a New ACL Anthology Corpus for Deeper Analysis of Scientific Papers
+Construction of a New ACL Anthology Corpus for Deeper Analysis of Scientific Papers
 
 AASC (ACL Anthology Sentence Corpus) is a new ACL Anthology corpus for deeper analysis of scientific papers. The corpus is constructed using [PDFNLT 1.0](https://github.com/KMCS-NII/PDFNLT-1.0), an on-going project to develop a PDF analysis tool suitable for NLP. The corpus has two features distinguishing it from existing scientific paper corpora. First, the output is a collection of natural language sentences rather than texts directly extracted from PDF files. Second, non-textual elements in a sentence, such as citation marks and inline math formulae, are substituted for uniquely identifiable tokens. 
 
