@@ -21,4 +21,5 @@ A simple dictionary-based classifier was used for the section type labeling.
 For details, see also our [Overview of AASC](https://github.com/KMCS-NII/AASC/blob/master/AASC.md)
 
 ---
+* Following the copyright policy of the original [ACL Anthology](https://www.aclweb.org/anthology/), AASC materials are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) International License.  
 * This work was supported by National Institute of Informatics and JST Crest JPMJCR1513.
