@@ -1,7 +1,7 @@
 ## AASC: ACL Anthology Sentence Corpus
 
 AASC is a corpus of natural language text extracted from scientific papers.
-It contains 2,339,195 sentences from PDF-format papers from the ACL Anthology [[1]](http://aclanthology.info/), a comprehensive scientific paper repository on computational linguistics and natural language processing.
+It contains 2,339,195 sentences from PDF-format papers from the ACL Anthology [[1]](https://www.aclweb.org/anthology/), a comprehensive scientific paper repository on computational linguistics and natural language processing.
 
 For PDF document analysis, we use PDFNLT 1.0 [[2]](https://github.com/KMCS-NII/PDFNLT-1.0), a PDF paper analysis tool specifically trained for ACL Anthology. After excluding papers with non-standard structures (eg. no _abstract_, or no _references_), the rest 13,923 papers were further processed by (1) sentence splitting, and (2) section type labeling.
 
